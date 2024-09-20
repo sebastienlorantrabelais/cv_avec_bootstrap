@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+    <title>cv sébastien lorant</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <body>
+        <h2>Cv Sébastien Lorant</h2> 
+            
+            <table>
+
+                <tr>
+
+                <td colspan="1"> Lorant <br/>
+                    Sébastien <br/>
+                France <br/>
+                né le 27 mai 2006 <br/>
+                en couple <br/>
+                lorantsebastien61@gmail.com
+                </td>
+                <td colspan="1"><img src="sio.png" alt="texte sio" width="" height="" border ="5"></td>
+                </tr>
+        </table>
+     <div id="études"  >
+        <h2>études</h2>
+        <table>
+            <tr>
+                <td>2024 </td>
+                <td>Terminal Bac Pro SN opt ARED</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Premiere Bac Pro SN</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>seconde Bac Pro SN</td>
+        </tr><tr>
+            <td>2021</td>
+            <td>collège saint-pierre plérin (mention assez bien)</td>
+        </tr>
+     </div>
+        </table>
+     <div id="compétances_informatiques" ></div>
+        <h2>compétances informatiques</h2>
+        <table>
+            <tr>
+                <td>Systèmes d'exploitations </td>
+                <td>Windows 11, 10</td>
+        </tr>
+        <tr>
+            <td>languages</td>
+            <td>HTML</td>
+        </tr>
+        <tr>
+            <td>IDE</td>
+            <td>Visual Studio</td>
+        </tr><tr>
+            <td>Framworks</td>
+            <td>CodeIgniter</td>
+        </tr>
+        <tr>
+            <td>Reseau</td>
+            <td>CISCO</td>
+        </tr>
+        </table>
+    </div>
+    <div id="expérience_professionnelles">
+        <h2>exprérience professionnelles</h2>
+        <table>
+            <tr>
+                <td>2024</td>
+                <td>travaille d'été a Kermené</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>stage à ambiances confort</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>2 stages à Amor ménager et collectivités</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>travail d'été a EARL du goulet</td>
+        </tr>
+        </table>
+    </div>
+    <div id="divers">
+        <h2>divers</h2>
+        <li>informatique</li>
+        <li>création de site web</li>
+        </div>
+   </body>
+ </html>
